@@ -1,0 +1,2 @@
+# randcapz
+Randomize letter caps
